@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array/>
+	<key>PayloadDisplayName</key>
+	<string>leilei</string>
+	<key>PayloadIdentifier</key>
+	<string>MacdeMac-mini.9DB65768-104D-4564-B3EC-D433360CEDA8</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A1365B71-CC5B-48FA-83F7-BC1E02987408</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
